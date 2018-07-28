@@ -1,0 +1,44 @@
+<DOCTYPE html>
+<html>
+<head >
+<title>demo</title>
+<link rel="stylesheet" type="text/css" href="sample2.css">
+</head>
+<body id="qqq">
+<!--comment please-->
+<h1 id="abc"> VIT CHENNAI </h1>
+<h1 id="mmm"> <b>virtual</b> <i>reality</i> </h1>
+<h2 id="aaa"> HEADING2 </h2>
+<p> paragrph <br> one  </p>
+<hr>
+<p> paragrph two  </p>
+<p>
+<a href="https://www.google.com" target="_blank"><u>google</u> </a>
+<ol>
+<li>adarsh</li>
+<li>ram</li>
+</ol>
+<ul>
+<li>adarsh</li>
+<li>ram</li>
+</ul>
+<!--<img src="avenger.jpg">-->
+<label>username: </label>
+<input type="text" /><br>
+<label id="lll">Password: </label>
+<input type="password" /><br>
+<input type="Button" value="submit" /><br>
+<table border=2 id="acm">
+<tr>
+<th>Name</th>
+<th>Age</th>
+
+</tr>
+<td>ram</td>
+<td>23</td>
+</tr>
+</table>
+</p>
+
+</body>
+</html>
